@@ -1,0 +1,17 @@
+D:\C# lesson\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.exe
+D:\C# lesson\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.deps.json
+D:\C# lesson\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.runtimeconfig.json
+D:\C# lesson\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.dll
+D:\C# lesson\UserCheck\UserCheck\bin\Debug\net8.0-windows\UserCheck.pdb
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.Form1.resources
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.csproj.GenerateResource.cache
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.AssemblyInfoInputs.cache
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.AssemblyInfo.cs
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.csproj.CoreCompileInputs.cache
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.dll
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\refint\UserCheck.dll
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.pdb
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.genruntimeconfig.cache
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\ref\UserCheck.dll
+D:\C# lesson\UserCheck\UserCheck\obj\Debug\net8.0-windows\UserCheck.Form2.resources

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# lesson\\UserCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|D:\\C# lesson\\UserCheck\\usercheck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|solutionrelative:usercheck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|d:\\c# lesson\\usercheck\\usercheck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|solutionrelative:usercheck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|d:\\c# lesson\\usercheck\\usercheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|solutionrelative:usercheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|d:\\c# lesson\\usercheck\\usercheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B5D0EFF-274A-4C09-8C61-6A6813D713F3}|UserCheck\\UserCheck.csproj|solutionrelative:usercheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\C# lesson\\UserCheck\\UserCheck\\Form2.cs",
+              "RelativeDocumentMoniker": "UserCheck\\Form2.cs",
+              "ToolTip": "D:\\C# lesson\\UserCheck\\UserCheck\\Form2.cs*",
+              "RelativeToolTip": "UserCheck\\Form2.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:10:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\C# lesson\\UserCheck\\UserCheck\\Form2.cs",
+              "RelativeDocumentMoniker": "UserCheck\\Form2.cs",
+              "ToolTip": "D:\\C# lesson\\UserCheck\\UserCheck\\Form2.cs [Design]*",
+              "RelativeToolTip": "UserCheck\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:06:33.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# lesson\\UserCheck\\UserCheck\\Form1.cs",
+              "RelativeDocumentMoniker": "UserCheck\\Form1.cs",
+              "ToolTip": "D:\\C# lesson\\UserCheck\\UserCheck\\Form1.cs",
+              "RelativeToolTip": "UserCheck\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:57:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# lesson\\UserCheck\\UserCheck\\Form1.cs",
+              "RelativeDocumentMoniker": "UserCheck\\Form1.cs",
+              "ToolTip": "D:\\C# lesson\\UserCheck\\UserCheck\\Form1.cs [Design]",
+              "RelativeToolTip": "UserCheck\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:47:14.543Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
